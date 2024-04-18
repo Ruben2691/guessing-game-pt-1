@@ -36,4 +36,5 @@ const checkGuess = (num) =>{
 }
 
 
-askGuess()
+// askGuess()
+console.log((Math.random() * (1000 - 0) + 0).toFixed(0))
